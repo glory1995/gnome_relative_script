@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Shadowsocks-libev
+GenericName=Shadowsocks Proxy
+Icon=/home/${username}/.shadowsocks/self.default/icons/default/shadowsocks-libev.png
+Exec=/home/${username}/.shadowsocks/self.default/switch.sh
+Terminal=false
+Categories=Network;Application
+Keywords=shadowsocks
+StartupWMClass=gnome-terminal
